@@ -1,0 +1,9 @@
+order_id,customer_name,city,product_name,category,price,quantity,order_date,payment_method
+1001,Vinoth,Chennai,TV,Electronics,45000,1,2024-01-10,Credit Card
+1002,Kumar,Bangalore,Fan,Home Appliances,2500,2,2024-01-11,UPI
+1003,Arun,Hyderabad,Cooler,Home Appliances,7000,1,2024-01-12,Debit Card
+1004,Ravi,Mumbai,AC,Electronics,38000,1,2024-01-13,Net Banking
+1005,Suresh,Chennai,TV,Electronics,45000,1,2024-01-14,UPI
+1006,Manoj,Pune,Fan,Home Appliances,2500,3,2024-01-15,Cash
+1007,Deepak,Delhi,AC,Electronics,38000,1,2024-01-16,Credit Card
+1008,Karthik,Chennai,Cooler,Home Appliances,7000,2,2024-01-17,UPI
